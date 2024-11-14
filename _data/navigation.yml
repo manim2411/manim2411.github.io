@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar:
+  - title: "Algorithm"
+    url: /algorithm
+  - title: "Project"
+    url: /project
