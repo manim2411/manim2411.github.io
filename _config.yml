@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "manim2411"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "manim2411"
+name                     : "manim2411 BLOG"
 description              : "manim2411의 블로그"
 url                      : "https://manim2411.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
