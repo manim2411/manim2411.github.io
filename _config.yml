@@ -327,5 +327,3 @@ defaults:
 
 date_format: "%Y-%m-%d"
 search: true
-sidebar:
-  nav: "sidebar"
