@@ -327,3 +327,10 @@ defaults:
 
 date_format: "%Y-%m-%d"
 search: true
+
+sidebar:
+  - title: "Algorithm"
+    url: /algorithm
+  - title: "Project"
+    url: /project
+  
